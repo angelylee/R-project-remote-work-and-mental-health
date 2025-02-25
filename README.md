@@ -6,7 +6,7 @@ Teammembers: May Chang & Angely Lee & Danni Zhang
 Project Deliverable uploaded:
 Mental_health_Final_Project.zip: This archive contains all the project files.
 
-Project Description
+Project Description:
 This project investigates the relationship between remote work and mental health. 
 We utilized RStudio to analyze data and build reports.
 
